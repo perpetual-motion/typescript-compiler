@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "Garrett Serack"
+  },
+  "name": "typescript-compiler",
+  "description": "A wrapper to expose the typescript compiler as a nodejs module",
+  "version": "0.8.1",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perpetual-motion/typescript-compiler"
+  },
+  "engines": {
+    "node": "0.8.x"
+  },
+  "main": "lib/main.js",
+  "dependencies": {
+    "typescript": "~0.8.1-1"
+  }
+}
