@@ -9,4 +9,9 @@ Exposes the typescript compiler for use from node.
 
 ## Usage
 
-  var TypeScript = require('typescript-compiler');
+``` javascript 
+var TypeScript = require('typescript-compiler');
+
+```
+
+see also (https://github.com/perpetual-motion/lax-typescript/blob/master/lib/main.js)
